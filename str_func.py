@@ -1,5 +1,5 @@
-def func(a):
-    print(a.upper())
+def func(s):
+    print(s.title())
 
-a=input()
-func(a)
+s=input()
+func(s)
